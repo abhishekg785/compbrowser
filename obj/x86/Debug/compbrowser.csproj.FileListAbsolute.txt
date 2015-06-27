@@ -1,0 +1,20 @@
+E:\c#\compbrowser\compbrowser\bin\Debug\compbrowser.exe
+E:\c#\compbrowser\compbrowser\bin\Debug\compbrowser.pdb
+E:\c#\compbrowser\compbrowser\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\c#\compbrowser\compbrowser\obj\x86\Debug\compbrowser.Form1.resources
+E:\c#\compbrowser\compbrowser\obj\x86\Debug\compbrowser.Properties.Resources.resources
+E:\c#\compbrowser\compbrowser\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\c#\compbrowser\compbrowser\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\c#\compbrowser\compbrowser\obj\x86\Debug\compbrowser.exe
+E:\c#\compbrowser\compbrowser\obj\x86\Debug\compbrowser.pdb
+G:\c sharp\c#\compbrowser\compbrowser\obj\x86\Debug\compbrowser.exe
+G:\c sharp\c#\compbrowser\compbrowser\obj\x86\Debug\compbrowser.pdb
+E:\c sharp\c#\compbrowser\compbrowser\bin\Debug\compbrowser.exe.config
+E:\c sharp\c#\compbrowser\compbrowser\obj\x86\Debug\compbrowser.exe
+E:\c sharp\c#\compbrowser\compbrowser\obj\x86\Debug\compbrowser.pdb
+E:\c sharp\c#\compbrowser\compbrowser\bin\Debug\compbrowser.exe
+E:\c sharp\c#\compbrowser\compbrowser\bin\Debug\compbrowser.pdb
+E:\c sharp\c#\compbrowser\compbrowser\obj\x86\Debug\compbrowser.csprojResolveAssemblyReference.cache
+E:\c sharp\c#\compbrowser\compbrowser\obj\x86\Debug\compbrowser.Form1.resources
+E:\c sharp\c#\compbrowser\compbrowser\obj\x86\Debug\compbrowser.Properties.Resources.resources
+E:\c sharp\c#\compbrowser\compbrowser\obj\x86\Debug\compbrowser.csproj.GenerateResource.Cache
